@@ -1,4 +1,3 @@
-package max_XOR_of_twoIntegers.gitHub;
 
 public class Solution {
 
